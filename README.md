@@ -1,3 +1,3 @@
 # SITE
-<a href="en/index.html">english</a>
-<a href="ru/index.html">russian</a>
+- [english](https://itzzefirfy.github.io/DC3Games/en.html)
+- [russian](https://itzzefirfy.github.io/DC3Games/ru.html)
